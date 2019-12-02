@@ -5,8 +5,7 @@ designing and developing a Markdown previewer
 Try it! ---->  https://oxanak.github.io/Portfolio/HtmlPage1.html
 
 ## Technology:
-React, HTML/CSS, Bootstrap
-Used the Marked library
+React, HTML/CSS, Bootstrap, Marked library
 
 ## Images: 
 
