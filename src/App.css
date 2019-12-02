@@ -1,0 +1,73 @@
+html {
+  height: 100%;
+}
+div.windowTitle
+{
+  font-size:22px;
+}
+
+body {
+  height: 100%;
+   background-color: #F5F5F5;
+}
+hr{
+  color:black;
+}
+
+main {
+  margin-top: 2%;
+  margin-bottom: 1em;
+}
+
+.title {
+  font-family: 'Arial', sans;
+  font-size:36px;
+  margin-left:auto;
+  margin-right:auto;
+   width: 50%;
+}
+
+.icon{
+  margin-left:10px; 
+}
+
+.classHalf{
+  width: 50%;  
+ 
+  position: relative;
+ display: inline-block;
+}
+
+#preview {
+  border:2px solid grey;
+  padding:10px;
+  width: 90%;
+   font-size:16px;
+  height: 1000px;
+  overflow: auto;
+  margin-left:auto;
+  margin-right:auto;
+
+}
+
+#editor {
+  margin-left:5%;
+
+  border:2px solid grey;
+  background-color: #E0E0E0;
+  color: black;
+  padding:10px;
+  width: 90%;
+  font-size:16px;
+  height: 1000px;
+  overflow: auto;
+}
+
+
+h2{
+  margin-left:55px;
+  margin-top:-30px;
+  width: 40%;
+  font-family: 'Arial', sans;
+  font-size:26px;
+}
