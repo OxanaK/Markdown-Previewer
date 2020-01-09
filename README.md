@@ -2,7 +2,7 @@
 
 designing and developing a Markdown previewer  
 
-Try it! ----> 
+Try it! ----> https://codepen.io/oxana-krisyuk/pen/JjjOdWX 
 
 ## Technology:
 React, HTML/CSS, Bootstrap, Marked library
